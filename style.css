@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:rgb(183, 230, 214);
+    color:black ;
+    margin: 10;
+    padding: 10;
+}
+
+.profile{
+    background: rgb(255, 255, 255);
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 28px;
+    color:midnightblue;
+    text-shadow:cyan 5px 5px 25px;
+
+}
+
+img {
+    border-radius: 50%;
+    border: 3px solid rgb(112, 164, 196);
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    
+}
+
+p {
+    font-size: 17px;
+}
+
+#info{
+     background: rgb(231, 230, 236);
+    margin: 15px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+#info div {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    line-height: 1.7;
+}
+
+#info span {
+    font-weight: bold;
+    color:royalblue;
+}
+
+.head{
+    text-align: center;
+}
