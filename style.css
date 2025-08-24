@@ -2,8 +2,7 @@ body {
     font-family: Arial, sans-serif;
     background-color:rgb(183, 230, 214);
     color:black ;
-    margin: 10;
-    padding: 10;
+    margin: 10px;
 }
 
 .profile{
@@ -56,4 +55,5 @@ p {
 
 .head{
     text-align: center;
+
 }
